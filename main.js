@@ -94,3 +94,60 @@
 // const name = 'john doe';
 // const age = 21;
 // console.log(`My name is ${name} and i am ${age} years old`);
+
+// // *** Numbers
+// // Loosely typed = dont declare type
+
+// const number = 23;
+// // let pants = 2.456;
+// // pants = 'pants is awesome'
+// const number2 = 3.2345;
+// const number3 = '4523';
+
+// console.log(number);
+// console.log(number2);
+// console.log(number3);
+
+// const numberOne = 43424;
+// const numberTwo = 4.4545;
+// const numberThree = '435';
+
+// const add = numberOne + numberTwo;
+// const sub = numberOne - numberTwo;
+// const mult = numberOne * numberTwo;
+// const div = numberOne / numberTwo;
+
+// console.log(add)
+// console.log(sub)
+// console.log(mult)
+// console.log(div)
+
+// // Number
+// // += , -= , *= , /= , ++ , == %
+// // % - modulus operator returns the remainder after integer division
+
+// let plusEqual = 45;
+// plusEqual += 5;
+// console.log(plusEqual);
+
+// let minusEqual = 50;
+// minusEqual -= 10;
+// console.log(minusEqual);
+
+// let multiEqual = 5;
+// multiEqual *= 5;
+// console.log(multiEqual);
+
+// let divideEqual = 25;
+// divideEqual /= 5;
+// console.log(divideEqual);
+
+// const pizzaSlices = 10;
+// const children = 4;
+// const remainder = pizzaSlices % children;
+// console.log(remainder);
+
+// const random = 4 + 3 + 6 + 5 * 10;
+// const random2 = (4 + 3 + 6 + 5) * 10;
+// console.log(random)
+// console.log(random2)
