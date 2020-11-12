@@ -236,4 +236,17 @@
 // console.log(friends[0]);
 // console.log(friends);
 // console.log(friends.length);
-// console.log(bestFriend)
+// console.log(bestFriend);
+
+//function declare and invoke
+
+function hello() {
+  //logic
+  console.log('hello there anna');
+  console.log('hello there bob');
+  console.log('hello there jerry');
+}
+
+hello();
+hello();
+hello();
