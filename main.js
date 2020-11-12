@@ -151,3 +151,35 @@
 // const random2 = (4 + 3 + 6 + 5) * 10;
 // console.log(random)
 // console.log(random2)
+
+// // implicit type conversion
+
+// const name = 'john';
+// const lastName = 'jordar';
+// const fullName = name + ' ' + lastName;
+// console.log(fullName);
+
+// const numberOne = 21;
+// const numberTwo = 12;
+// const result = numberOne + numberTwo;
+// console.log(result);
+
+// const value = name - lastName;
+// console.log(value);
+
+// const numberThree = '12';
+// const numberFour = '23';
+// const result2 = numberThree + numberFour;
+// console.log(result2);
+
+
+// const randomNumber = 13;
+// document.querySelector('.form').addEventListener('submit' , function (e){
+//     e.preventDefault();
+//     let value = document.getElementById('amount').value;
+//     value = parseInt(value);
+//     console.log('Input Value Type');
+//     console.log(value)
+//     console.log('Sum Of Two Values');
+//     console.log(randomNumber + value)
+// })
