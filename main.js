@@ -172,7 +172,6 @@
 // const result2 = numberThree + numberFour;
 // console.log(result2);
 
-
 // const randomNumber = 13;
 // document.querySelector('.form').addEventListener('submit' , function (e){
 //     e.preventDefault();
@@ -183,3 +182,28 @@
 //     console.log('Sum Of Two Values');
 //     console.log(randomNumber + value)
 // })
+
+// //data types - 7 totals
+// // primitive - strings , numbers , boolean , null , undefined
+// //object - array , object , function
+
+// // typeof - operator (typeof variables) , (typeof value)
+
+// //strings
+// const text = 'some text';
+// //number
+// const number = 321;
+// //boolean
+// const name = false;
+// // null
+// const age = null;
+// // undefined
+// const un=
+// // symbol es6
+// console.log(typeof text);
+// console.log(typeof number);
+// console.log(typeof name);
+// console.log(typeof age);
+// console.log(typeof un);
+// console.log(typeof 'this is strings')
+// console.log(typeof 3213)
