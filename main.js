@@ -207,3 +207,33 @@
 // console.log(typeof un);
 // console.log(typeof 'this is strings')
 // console.log(typeof 3213)
+
+// //Arrays , Function and Object
+// // arrays - [] 0 index based
+
+// const friend1 = 'ana';
+// const friend2 = 'ana';
+// const friend3 = 'ana';
+// const friend4 = 'ana';
+
+// const friends = [
+//   'ana',
+//   'jollie',
+//   'sophie',
+//   'turner',
+//   'jerry',
+//   23,
+//   undefined,
+//   null,
+// ];
+
+// friends[5] = 'julliet'
+// let bestFriend = friends[4];
+// friends.unshift('joney');
+// friends.push('somethings');
+// friends.shift();
+// friends.pop();
+// console.log(friends[0]);
+// console.log(friends);
+// console.log(friends.length);
+// console.log(bestFriend)
